@@ -1,0 +1,3 @@
+#siege windows instalation.
+
+download [https://code.google.com/p/siege-windows/downloads/list siege-win.zip] and extract to Drive C:

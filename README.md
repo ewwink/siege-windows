@@ -10,7 +10,7 @@ INSTALLATION
  2. Extract to C:\siege-windows and you are done
  3. if you want to place siege other then directory above,
     rename and move siege configuration file siege-windows\etc\siegerc
-    to C:\Users\YOUR-USERNAME\.siegerc (Windows 7) it is very important
+    to C:\Users\YOUR-USERNAME\\.siegerc (Windows 7) it is very important
     the file .siegerc must be started with the dot "."
 
 **Benchmark Test Example**
